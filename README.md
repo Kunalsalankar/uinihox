@@ -31,6 +31,8 @@ A simple, clean, and well-structured Flutter application featuring login/signup 
 - Dummy authentication (no backend)
 - Login state stored using `SharedPreferences`
 
+---
+
 ### 💬 Chatbot
 - Simple chat interface:
   - Input field for sending messages
@@ -64,9 +66,6 @@ lib/
 │   ├── custom_text_field.dart
 │   └── message_bubble.dart
 └── main.dart              # App entry point
-````
-
----
 
 ## 🧪 Tech Stack
 
